@@ -1,4 +1,4 @@
-package com.example.polling.model;
+package com.example.polling.model.audit;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import lombok.Data;
